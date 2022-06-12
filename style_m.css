@@ -81,6 +81,9 @@ body {
     font-family: sans-serif;
     font-size: 250%;
 }
+footer section article{
+    position:relative;
+}
 .img1 {
     width: 4%;
     height: 7%;
